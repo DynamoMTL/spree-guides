@@ -1,6 +1,6 @@
 h2. Getting Started With Exact Target
 
-This guide covers getting up and running and sending email with ExactTarget. After reading it, you should be familiar with:
+This guide covers getting up and running and sending email with ExactTarget (ET). After reading it, you should be familiar with:
 
 * Logging into the system
 * Business Units
